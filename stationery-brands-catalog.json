@@ -3,10 +3,7 @@
     "slug": "bic",
     "name": "Société BIC",
     "country_code": "FR",
-    "founded_year": {
-      "year": 1953,
-      "confidence": "disputed"
-    },
+    "founded_year": 1953,
     "summary_en": "French manufacturer of writing instruments, lighters and shavers, headquartered in Clichy near Paris. The founding date depends on what one counts: Marcel Bich and Édouard Buffard set up a writing-instrument parts workshop in Clichy in 1945, while the company named Société BIC was created only in 1953. The first product sold under the BIC brand was the Cristal ballpoint, launched in France in 1950 after Bich bought László Biró's patent. BIC still makes the Cristal in its own plants in France, Brazil, Mexico and South Africa, producing its inks and its production machinery in-house.",
     "summary_pl": "Francuski producent przyborów do pisania, zapalniczek i maszynek do golenia, z siedzibą w Clichy pod Paryżem. Data założenia zależy od tego, co się liczy: Marcel Bich i Édouard Buffard uruchomili w 1945 r. w Clichy wytwórnię części do przyborów do pisania, natomiast spółka pod nazwą Société BIC powstała dopiero w 1953 r. Pierwszym wyrobem sprzedawanym pod marką BIC był długopis Cristal, wprowadzony we Francji w 1950 r. po wykupieniu przez Bicha patentu László Biró. Firma do dziś produkuje Cristal we własnych fabrykach we Francji, Brazylii, Meksyku i RPA, wytwarzając samodzielnie także tusze oraz maszyny produkcyjne.",
     "url_en": "https://ballpoints.org/en/brands/bic/",
@@ -16,14 +13,7 @@
     "slug": "caran-dache",
     "name": "Caran d'Ache",
     "country_code": "CH",
-    "founded_year": {
-      "year": 1915,
-      "confidence": "confirmed",
-      "note": {
-        "pl": "Firma powstała w Genewie jako Fabrique Genevoise de Crayons; nazwę Caran d'Ache przyjęła później.",
-        "en": "Founded in Geneva as Fabrique Genevoise de Crayons; the Caran d'Ache name was adopted later."
-      }
-    },
+    "founded_year": 1915,
     "summary_en": "A Geneva maker of writing instruments and art materials. Products are both designed and manufactured in the company's own Geneva workshops — for this brand \"Swiss Made\" covers design and production alike, which sets it apart from makers that assemble elsewhere. It remains family-held.",
     "summary_pl": "Genewski producent przyborów do pisania i materiałów plastycznych. Projektuje i wytwarza wyroby wyłącznie we własnych warsztatach w Genewie — w przypadku tej marki „Swiss Made” obejmuje zarówno projekt, jak i produkcję, co odróżnia ją od wytwórców zlecających montaż poza Szwajcarią. Pozostaje firmą rodzinną.",
     "url_en": "https://ballpoints.org/en/brands/caran-dache/",
@@ -33,10 +23,7 @@
     "slug": "fisher-space-pen",
     "name": "Fisher Space Pen Company",
     "country_code": "US",
-    "founded_year": {
-      "year": 1948,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1948,
     "summary_en": "American pen manufacturer founded by Paul C. Fisher in 1948 as the Fisher Pen Company, initially in Chicago. The company later operated from Van Nuys, California, and moved manufacturing to Boulder City, Nevada in 1976, where its pens are still made. Its defining technology is the hermetically sealed pressurized cartridge: a reservoir charged with compressed nitrogen (about 310 kPa / 45 psi) pushes thixotropic gel ink to a tungsten carbide ball, letting the pen write at any angle, upside down, underwater and across a wide temperature range. After NASA testing the design flew on Apollo 7 in 1968. The brand's flagship model is the AG7, sold as the Original Astronaut Space Pen.",
     "summary_pl": "Amerykański producent długopisów, założony przez Paula C. Fishera w 1948 r. jako Fisher Pen Company (początkowo w Chicago). Firma działała następnie w Van Nuys w Kalifornii, a w 1976 r. przeniosła produkcję do Boulder City w Nevadzie, gdzie wytwarza długopisy do dziś. Znak rozpoznawczy marki to hermetycznie zamknięty wkład ciśnieniowy: zbiornik napełniony sprężonym azotem (ok. 310 kPa / 45 psi) wypycha tiksotropowy tusz żelowy do kulki z węglika wolframu, dzięki czemu długopis pisze w dowolnej pozycji, do góry nogami, pod wodą i w szerokim zakresie temperatur. Po testach NASA konstrukcja trafiła na pokład misji Apollo 7 w 1968 r. Sztandarowym modelem marki jest AG7, sprzedawany jako Original Astronaut Space Pen.",
     "url_en": "https://ballpoints.org/en/brands/fisher-space-pen/",
@@ -46,10 +33,7 @@
     "slug": "lamy",
     "name": "LAMY",
     "country_code": "DE",
-    "founded_year": {
-      "year": 1930,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1930,
     "summary_en": "C. Josef Lamy GmbH is a German writing-instrument manufacturer based in Heidelberg. It was founded in 1930 by C. Josef Lamy, who took over the Orthos fountain-pen works. The company builds its range around collaborations with external industrial designers (Franco Clivio designed the pico and the dialog, among others) and manufactures in Germany.",
     "summary_pl": "C. Josef Lamy GmbH — niemiecki producent przyborów piśmienniczych z siedzibą w Heidelbergu. Firmę założył w 1930 r. C. Josef Lamy, przejmując wytwórnię wiecznych piór Orthos. Marka opiera ofertę na współpracy z zewnętrznymi projektantami przemysłowymi (m.in. Franco Clivio przy modelach pico i dialog) i prowadzi produkcję w Niemczech.",
     "url_en": "https://ballpoints.org/en/brands/lamy/",
@@ -59,10 +43,7 @@
     "slug": "parker",
     "name": "Parker Pen Company",
     "country_code": "US",
-    "founded_year": {
-      "year": 1888,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1888,
     "summary_en": "Writing-instrument maker founded in 1888 by George Safford Parker in Janesville, Wisconsin (US). One of the two largest pen sellers worldwide from the 1920s to the 1960s; its best-known designs are the Duofold (1921), Parker 51 (1941) and Jotter (1954), and its innovations include the 'Lucky Curve' feed and Quink quick-drying ink. After successive ownership changes (Gillette 1993, Newell Rubbermaid 2000) the brand belongs to Newell Brands. The Janesville and Newhaven (England) plants closed between 2009 and 2011, with manufacturing and the company seat moved to Nantes, France.",
     "summary_pl": "Wytwórnia przyborów do pisania założona w 1888 r. przez George'a Safforda Parkera w Janesville w stanie Wisconsin (US). Od lat 20. do 60. XX w. jeden z dwóch największych producentów piór na świecie; jej rozpoznawalne konstrukcje to Duofold (1921), Parker 51 (1941) i Jotter (1954), a wśród wynalazków — kanalik atramentowy 'Lucky Curve' i szybkoschnący atrament Quink. Po zmianach właścicielskich (Gillette 1993, Newell Rubbermaid 2000) marka należy do Newell Brands. Produkcję w Janesville i w Newhaven w Anglii zamknięto na przełomie lat 2009-2011, a wytwarzanie i siedzibę przeniesiono do Nantes we Francji.",
     "url_en": "https://ballpoints.org/en/brands/parker/",
@@ -72,10 +53,7 @@
     "slug": "pentel",
     "name": "Pentel",
     "country_code": "JP",
-    "founded_year": {
-      "year": 1946,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1946,
     "summary_en": "Japanese maker of writing instruments and art materials, founded in Tokyo in 1946 as Dainippon Bungu Co. After the worldwide success of the Sign Pen fibre-tip (1963), the company adopted the name Pentel in 1971 — from \"pen\" and \"tell\". Known for mechanical pencils, markers and the EnerGel gel line (2001; over 1.2 billion units sold by 2023). On 1 April 2026 the legal entity was renamed Astrum Corporation as part of its integration into the Plus group; Pentel continues as the global product brand.",
     "summary_pl": "Japoński producent przyborów piśmienniczych i materiałów plastycznych, założony w 1946 r. w Tokio jako Dainippon Bungu (大日本文具株式会社). Po światowym sukcesie flamastra Sign Pen (1963) firma przyjęła w 1971 r. nazwę Pentel — od „pen” i „tell”. Znana z ołówków automatycznych, pisaków i żelowej linii EnerGel (2001, ponad 1,2 mld sprzedanych sztuk do 2023 r.). 1 kwietnia 2026 r. spółka zmieniła nazwę prawną na Astrum Corporation (アストラム株式会社) w ramach integracji z grupą Plus; Pentel pozostaje globalną marką handlową.",
     "url_en": "https://ballpoints.org/en/brands/pentel/",
@@ -85,10 +63,7 @@
     "slug": "pilot",
     "name": "Pilot Corporation",
     "country_code": "JP",
-    "founded_year": {
-      "year": 1918,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1918,
     "summary_en": "Japanese writing-instrument manufacturer based in Tokyo; the company dates its founding to 1918. Alongside fountain pens it develops oil-based ballpoints with Acro ink, gel pens (G-2, Juice) and erasable FriXion products. The ergonomic Dr. Grip series, launched in 1991, is one of its longest-running lines and has spawned oil-based, gel, mechanical-pencil and multifunction variants.",
     "summary_pl": "Japoński producent przyborów do pisania z siedzibą w Tokio; firma podaje rok 1918 jako początek działalności. Obok piór wiecznych rozwija długopisy olejowe z tuszem Acro, długopisy żelowe (G-2, Juice) oraz ścieralne FriXion. Ergonomiczna seria Dr. Grip, wprowadzona w 1991 r., jest jedną z najdłużej utrzymywanych linii firmy i doczekała się odmian olejowych, żelowych, ołówków automatycznych i wielofunkcyjnych.",
     "url_en": "https://ballpoints.org/en/brands/pilot/",
@@ -98,10 +73,7 @@
     "slug": "retro-51",
     "name": "Retro 51",
     "country_code": "US",
-    "founded_year": {
-      "year": 1990,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1990,
     "summary_en": "Retro 1951, Inc. (the Retro 51 brand) is a Texas-based American company founded in 1990, making retro-styled writing instruments. Its flagship product is the Tornado retractable rollerball, introduced in 1997 with its trademark knurled twist-top. In January 2020 the team announced a wind-down (\"sabbatical\"), but in January 2021 the brand was taken over by a group of three collectors; founder George Kartsotis retired, the core team stayed on, and production continues. Barrels are made in Taiwan; refills are supplied by Schmidt of Germany.",
     "summary_pl": "Retro 1951, Inc. (marka Retro 51) to amerykańska firma z Teksasu, założona w 1990 r., produkująca artykuły piśmiennicze o stylistyce retro. Jej flagowy produkt to wprowadzony w 1997 r. chowany rollerball Tornado z charakterystyczną radełkowaną nakrętką skrętną. W styczniu 2020 r. zespół ogłosił wygaszanie działalności („sabbatical”), jednak w styczniu 2021 r. markę przejęła grupa trzech kolekcjonerów; założyciel George Kartsotis przeszedł na emeryturę, kluczowy zespół pozostał, a produkcja jest kontynuowana. Korpusy powstają w Tajwanie, wkłady dostarcza niemiecki Schmidt.",
     "url_en": "https://ballpoints.org/en/brands/retro-51/",
@@ -111,10 +83,7 @@
     "slug": "sakura",
     "name": "Sakura Color Products",
     "country_code": "JP",
-    "founded_year": {
-      "year": 1921,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1921,
     "summary_en": "Japanese maker of art materials and writing instruments, headquartered in Osaka (Morinomiya Chuo, Chuo-ku). The company chronicle dates the founding to 1921 as Nihon Crayon Shokai, renamed the same year to Sakura Crayon Shokai; the present name Sakura Color Products Corporation dates from 1970. The portfolio spans art materials (Cray-Pas oil pastels, 1925) and writing instruments: Pigma pigment markers (1982) and Ball Sign gel pens (1984), sold outside Japan under the Gelly Roll brand.",
     "summary_pl": "Japoński producent materiałów plastycznych i artykułów piśmienniczych z siedzibą w Osace (Morinomiya Chuo, Chuo-ku). Firmowa kronika podaje założenie w 1921 r. jako 日本クレィヨン商会 (Nihon Crayon Shokai), przemianowane jeszcze tego samego roku na 桜クレィヨン商会; obecna nazwa 株式会社サクラクレパス obowiązuje od 1970 r. Portfolio łączy materiały artystyczne (pastele olejne Cray-Pas, 1925) z piśmienniczymi: pisaki pigmentowe Pigma (1982) i żelowe długopisy Ball Sign (1984), sprzedawane poza Japonią pod marką Gelly Roll.",
     "url_en": "https://ballpoints.org/en/brands/sakura/",
@@ -124,10 +93,7 @@
     "slug": "uni",
     "name": "uni (Mitsubishi Pencil Co., Ltd.)",
     "country_code": "JP",
-    "founded_year": {
-      "year": 1887,
-      "confidence": "confirmed"
-    },
+    "founded_year": 1887,
     "summary_en": "Japanese writing-instrument maker founded in 1887 by Niroku Masaki as the Masaki Pencil Manufactory in Tokyo. It registered its three-diamond trademark in 1903 to commemorate its first pencils supplied to the communications ministry; the company is independent of the Mitsubishi conglomerate. Under the uni and uni-ball brands it makes the Jetstream, Signo and Kuru Toga lines, among others.",
     "summary_pl": "Japoński producent przyborów piśmiennych, założony w 1887 r. przez Niroku Masakiego jako wytwórnia ołówków Masaki Enpitsu Seizōsho w Tokio. Znak „trzech diamentów\" zarejestrował w 1903 r. dla upamiętnienia pierwszych ołówków dostarczonych ministerstwu łączności; firma jest niezależna od konglomeratu Mitsubishi. Pod markami uni i uni-ball produkuje m.in. linie Jetstream, Signo i Kuru Toga.",
     "url_en": "https://ballpoints.org/en/brands/uni/",
@@ -137,13 +103,20 @@
     "slug": "zebra",
     "name": "Zebra",
     "country_code": "JP",
-    "founded_year": {
-      "year": 1897,
-      "confidence": "disputed"
-    },
+    "founded_year": 1897,
     "summary_en": "Japanese writing-instrument maker headquartered in Tokyo (Shinjuku). The company's own history dates its origin to 1897, when Tokumatsu Ishikawa began producing the first domestically made metal nibs; the ZEBRA trademark was adopted in 1914, and some sources (including Wikipedia) date the company's founding from that year — hence the discrepancy. The US subsidiary, Zebra Pen Corporation, was founded in New York in August 1982 and markets the stainless-steel F-series (F-301, F-402, F-701) in the United States.",
     "summary_pl": "Japoński producent przyborów do pisania z siedzibą w Tokio (Shinjuku). Własna historia firmy datuje początek na 1897 r., gdy Tokumatsu Ishikawa uruchomił produkcję pierwszych krajowych stalówek metalowych; znak towarowy ZEBRA przyjęto w 1914 r. i od tej daty niektóre źródła (m.in. Wikipedia) liczą powstanie firmy — stąd rozbieżność. Amerykańska spółka zależna Zebra Pen Corporation powstała w Nowym Jorku w sierpniu 1982 r. i to ona prowadzi linię stalowych długopisów serii F (F-301, F-402, F-701) na rynek USA.",
     "url_en": "https://ballpoints.org/en/brands/zebra/",
     "url_pl": "https://ballpoints.org/pl/marki/zebra/"
+  },
+  {
+    "slug": "monami",
+    "name": "Monami",
+    "country_code": "KR",
+    "founded_year": 1960,
+    "summary_en": "Korean writing-instrument maker headquartered in Yongin. The company chronicle dates its origin to 1960 under the name Gwangshin Chemical Industrial Co.; in 1963 it began producing the 153 ballpoint, the first ballpoint pen manufactured in Korea, and opened its first factory in Seoul's Seongsu-dong district the same year. In Korea the name Monami stands for the ballpoint pen much as Bic does in Europe — and like Bic the company built its name on one inexpensive product that has outlasted sixty years without a change of construction.",
+    "summary_pl": "Koreański producent przyborów do pisania z siedzibą w Yongin. Kronika firmowa datuje początek na 1960 rok i nazwę 광신화학공업사; w 1963 ruszyła produkcja długopisu 153, pierwszego długopisu wytwarzanego w Korei, a w tym samym roku firma uruchomiła pierwszą fabrykę w seulskiej dzielnicy Seongsu-dong. Monami jest w Korei synonimem długopisu w takim stopniu, w jakim w Europie bywa nim Bic — i podobnie jak Bic zbudowało markę na jednym, tanim wyrobie, który przetrwał bez zmiany konstrukcji ponad sześćdziesiąt lat.",
+    "url_en": "https://ballpoints.org/en/brands/monami/",
+    "url_pl": "https://ballpoints.org/pl/marki/monami/"
   }
 ]
